@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, ✨ Its Vaibhav Dasharathe a.k.a Infinity_sailor </h1>
+<h1 align="center"> Hi there, ✨ Its Infinity_sailor </h1>
 <h2 >Imagination == Reality ? Imagine++ : Engage++ ; </h2>
 
 <summary> 🛠 &nbsp;Tech Stack </summary>
