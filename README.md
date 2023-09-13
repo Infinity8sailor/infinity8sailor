@@ -27,4 +27,28 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+  
+# ⚡Live 
+## Admin-Io [ v0.1.0 ] [ Private Repo ]
+  - [ ] Shifting To New Api
+    - [X] Profile-io
+    - [ ] Links-io
 
+
+## React-Utility-Yard package.
+npm package containing the react components.
+- [X] tailwind support
+- [X] Basic functionalities
+- [ ] Migrating Current Components
+
+## MusicAi [ v0.1 ]
+Eletron Music App for Miscellaneous functionalities
+- [x] Use UVR Convert the Songs to 4 Streams
+  - [x] basic set Up
+  - [x] Process 2k Songs
+- [x] Parse the Songs into the Music-Ai App
+  - [x] Folder Schema for Data Source ( use prepross.py to prepare it )
+  - [x] Show the Source song and other streams waves.
+- [ ] Clustering Algo
+  - [ ] Look for ways to cluster the vocals
+  - [ ] Add auto clustering
