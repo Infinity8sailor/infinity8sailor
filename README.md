@@ -27,6 +27,8 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Infinity8sailor&show_icons=true&include_all_commits=true&locale=en&theme=dark" alt="stats" />
+
   
 # ⚡Live 
 ## Admin-Io [ v0.1.0 ] [ Private Repo ]
