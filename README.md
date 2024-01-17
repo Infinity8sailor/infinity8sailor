@@ -13,20 +13,27 @@
 
 
 - 🔭 I’m currently working on ...
-  - Admin Io
-  - MusicAi
-  - CodeBase
-- 🔭 Archieved Projects ...
+  - Admin Io [ Private ]
+  - MusicAi [ Integrating Ai in Music]
+  - CodeBase [ list of dsa solution codes ]
+  - React Uitility Yard [ Npm package ]
+  - Rein 
+  - Duck-Bot [ whatsapp Bot ]
+- 📦 Archieved Projects ...
   - Docs-Io [ Integrated to Admin-Io ]
-- 🌱 I’m currently learning ...
-  - mL in Music 
-  - LLms for personal Projects
+- 🌱 Currently Learning ...
+  - 🎵 mL in Music 
+  - LLms for Personalized Bots
+  - Korean 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ... 
+# Projects in pipeline
+  - [3D world ](https://artsandculture.google.com/experiment/TAEPZtXK2s139g) 
+- -->
   
 # ⚡Live 
 ## Admin-Io [ v0.1.0 ] [ Private Repo ]
@@ -35,7 +42,7 @@
     - [ ] Links-io
 
 
-## React-Utility-Yard package.
+## React-Utility-Yard package [ v0.0.11 ].
 npm package containing the react components.
 - [X] tailwind support
 - [X] Basic functionalities
