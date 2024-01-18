@@ -1,60 +1,43 @@
-<h1 align="center"> Hi there, ✨ Its Infinity_sailor </h1>
+
+<h1 align="center"> Hola! ✨ It's Infinity Sailor </h1>
 <h2> Reality == Imagination ? Imagine++ : Engage++ ; </h2>
 
 <summary> 🛠 &nbsp;Tech Stack </summary>
 
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=nextdotjs)
+  ![JavaScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m Currently Working/Worked on ...
+  - 🎵 MusicAi [ Windows App Integrating Ai in Music ]
+  - <> CodeBase [ Code database of leetcode/DSA problem solutions ]
+  - React Uitility Yard [ Npm package for react components ]
+  - Rein ( In-progress, BT based Personalised Assistant )
+  - Duck-Bot [ whatsapp Bot and Messeging Assistant ]
   - Admin Io [ Private ]
-  - MusicAi [ Integrating Ai in Music]
-  - CodeBase [ list of dsa solution codes ]
-  - React Uitility Yard [ Npm package ]
-  - Rein 
-  - Duck-Bot [ whatsapp Bot ]
+    - Kardz ( Custom flash card Game )
+    - Link-Io ( Information management and analatics App )
+    - Ritual-Io ( Behavior Tree based Automation/Ritual Performing App )
+    - Profile-Io ( Character Analyser/Developement App )
+    - Story ( Story/Content/Songs Writing App build using meta's Lexical )
+    - Tasks-Io ( Tasks management App )
+  
 - 📦 Archieved Projects ...
   - Docs-Io [ Integrated to Admin-Io ]
-- 🌱 Currently Learning ...
-  - 🎵 mL in Music 
-  - LLms for Personalized Bots
-  - Korean 
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Infinity8sailor&show_icons=true&include_all_commits=true&locale=en&theme=dark" alt="stats" />
-
   
-# ⚡Live 
-## Admin-Io [ v0.1.0 ] [ Private Repo ]
-  - [ ] Shifting To New Api
-    - [X] Profile-io
-    - [ ] Links-io
+- 🌱 Currently Learning ...
+  - Migrating React projects to Next.js
+  - 🎵 mL in Music 
+  - LLMs for Personalized Bots
+  - 가 Korean Language
 
 
-## React-Utility-Yard package [ v0.0.11 ].
-npm package containing the react components.
-- [X] tailwind support
-- [X] Basic functionalities
-- [ ] Migrating Current Components
 
-## MusicAi [ v0.1 ]
-Eletron Music App for Miscellaneous functionalities
-- [x] Use UVR Convert the Songs to 4 Streams
-  - [x] basic set Up
-  - [x] Process 2k Songs
-- [x] Parse the Songs into the Music-Ai App
-  - [x] Folder Schema for Data Source ( use prepross.py to prepare it )
-  - [x] Show the Source song and other streams waves.
-- [ ] Clustering Algo
-  - [ ] Look for ways to cluster the vocals
-  - [ ] Add auto clustering
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Infinity8sailor&show_icons=true&include_all_commits=true&locale=en&theme=dark" alt="stats" />
